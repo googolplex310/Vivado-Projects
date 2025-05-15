@@ -1,0 +1,16 @@
+Copyright © Jonathan Lopez 2025. All rights reserved.
+
+This code is provided for **educational and personal learning purposes only**.
+
+You may:
+- View and study the source code
+- Run the code for personal, non-commercial educational use
+
+You may not:
+- Use this code for any commercial purposes, including software products, services, or monetized content
+- Redistribute, republish, or host the code or any derivative work, in full or in part
+- Modify this code and incorporate it into other projects, open-source or proprietary
+
+No license or rights are granted to use this code beyond personal, non-commercial educational purposes.
+
+If you wish to use this code in any other context, including teaching, publishing, or integration into other software, you must obtain explicit written permission from the author.
